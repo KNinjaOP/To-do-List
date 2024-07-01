@@ -32,6 +32,7 @@ button{
 }
 .todoDate{
   margin-right: 10px;
+  color: white;
 }
 .add ,.todoData ,.todoDate{
   border: solid 1px;
